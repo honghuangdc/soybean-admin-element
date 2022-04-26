@@ -1,0 +1,6 @@
+@import './reset.css';
+@import './transition.css';
+
+html, body, #app {
+	height: 100%;
+}

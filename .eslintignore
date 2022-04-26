@@ -1,0 +1,16 @@
+*.sh
+node_modules
+lib
+*.md
+*.woff
+*.ttf
+.vscode
+.idea
+/dist/
+/public
+/docs
+.vscode
+.local
+package.json
+!.env-config.ts
+components.d.ts

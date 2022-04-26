@@ -1,0 +1,75 @@
+{
+	"editor.bracketPairColorization.enabled": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true,
+		"source.fixAll.stylelint": true
+	},
+	"editor.fontLigatures": true,
+	"editor.formatOnSave": false,
+	"editor.guides.bracketPairs": "active",
+	"editor.quickSuggestions": {
+		"strings": true
+	},
+	"editor.tabSize": 2,
+	"files.associations": {
+		"*.env.*": "dotenv"
+	},
+	"git.enableSmartCommit": true,
+	"gutterpreview.paths": {
+		"@": "/src",
+		"~@": "/src"
+	},
+	"i18n-ally.displayLanguage": "zh",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"path-intellisense.mappings": {
+		"@": "${workspaceFolder}/src",
+		"~@": "${workspaceFolder}/src",
+	},
+	"material-icon-theme.activeIconPack": "angular",
+	"material-icon-theme.files.associations": {},
+	"material-icon-theme.folders.associations": {
+		"enum": "typescript",
+		"enums": "typescript",
+		"store": "context",
+		"stores": "context",
+		"composable": "hook",
+		"composables": "hook",
+		"directive": "tools",
+		"directives": "tools",
+		"business": "core"
+	},
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.fontSize": 14,
+	"terminal.integrated.fontWeight": 500,
+	"terminal.integrated.tabs.enabled": true,
+	"vue3snippets.enable-compile-vue-file-on-did-save-code": false,
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorTheme": "One Dark Pro",
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[markdown]": {
+		"editor.defaultFormatter": "yzhang.markdown-all-in-one"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[vue]": {
+		"editor.defaultFormatter": "johnsoncodehk.volar"
+	}
+}
